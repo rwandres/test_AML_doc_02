@@ -11,4 +11,6 @@ When you're ready, delete this note and make the vault your own.
 
 This i a test.
 
+I'm adding a line
+
 [[Test note 1]]
