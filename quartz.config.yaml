@@ -1,5 +1,5 @@
 configuration:
-  pageTitle: Quartz
+  pageTitle: Test MD Documentation
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
